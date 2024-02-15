@@ -1,0 +1,10 @@
+.aaa:hover{
+color: red;
+transition: all .3s;
+background-color: #3333;
+transform: scale(1.05);
+}
+.aaa{
+    align-items: center;
+    justify-content: center;
+}

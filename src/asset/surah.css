@@ -1,0 +1,43 @@
+
+
+.carousel {
+  margin: 0px;
+  padding: 0;
+}
+
+.carousel .carousel-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.carousel .card {
+  background-color: #f5f5f5;
+  border-radius: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  height: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel .card-content {
+  text-align: center;
+}
+
+.carousel .card-content p {
+  margin-bottom: 8px;
+  color: #333;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.carousel .card-content p:first-child {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* Other component styles */
+/* Add additional CSS styles here for other elements in your component */

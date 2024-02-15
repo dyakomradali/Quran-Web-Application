@@ -1,0 +1,25 @@
+h1{
+    color: red;
+}
+.small-circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 20%;
+    /* background-color: #2196f3; */
+  }
+  /* Comp1.css */
+
+.card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 16px;
+}
+
+.card-content {
+  padding: 16px;
+}
+
+.audio {
+  margin-top: 16px;
+}
